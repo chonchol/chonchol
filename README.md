@@ -2,7 +2,7 @@
 
 I am Chonchol Mahmud. A passionate and detail-oriented Web Developer, I specialize in creating dynamic, responsive, and user-friendly websites and web applications. With a strong foundation in front-end and back-end technologies, I have developed robust web solutions that enhance user experience and drive business growth.
 
-- 🔭 I’m currently working on ReactJs and NextJs
+- 🔭 I’m currently working in ReactJs and NextJs
 - 🌱 I’m currently learning GraphQL, Prisma, Sockect.IO
 - 👯 I’m looking remote position in frontend development
 - 📫 How to reach me: send an email to chonchol57@gmail.com
